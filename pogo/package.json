@@ -1,0 +1,11 @@
+{
+  "name": "pokemon-news-watcher",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.14.1"
+  }
+}
