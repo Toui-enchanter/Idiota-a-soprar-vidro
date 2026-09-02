@@ -1,1 +1,7 @@
-
+project/
+├── src/
+│   ├── bot.js
+│   ├── checker.js
+│   └── storage.json
+├── package.json
+└── README.md
